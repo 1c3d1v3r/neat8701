@@ -7,11 +7,14 @@ neat8701 is a MOS 8701 IC replacement circuit for Commodore 64. 8701 is used in 
 <p align="center">
     <img img width="500" src="images/bottom_side.jpg">
 </p>
-Assembly instuctions can be found HERE.<br>
+
+Assembly instuctions can be found [HERE.](https://github.com/1c3d1v3r/neat8701/blob/main/assembly/neat8701_assembly_instructions.pdf)<br>
 
 Gerbers for ordering the PCBs are available [HERE.](https://github.com/1c3d1v3r/neat8701/blob/main/gerbers/neat8701.zip)<br>
 
 HTML BOM can be found [HERE.](https://htmlpreview.github.io/?https://github.com/1c3d1v3r/neat8701/blob/main/BOM/neat8701.html)
+
+You can also use round pins if capton tape etc. is used as an insulator. I'll update the assembly instructions for round pins the next time I build one.
 
 
 ### Licence
